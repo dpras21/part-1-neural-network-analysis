@@ -3,6 +3,7 @@
 This project builds and evaluates a feed-forward neural network using TensorFlow/Keras.
 
 Tasks completed:
+- Dataset Understanding
 - Data preprocessing
 - Neural network model building
 - Training and evaluation
